@@ -9,16 +9,15 @@ CTRLTools - A Maya tool for animators
 **CTRLTools** is an Autodesk Maya tool for 3D animators developed by *[Roberto Menicatti](https://linktr.ee/robertomenicatti)*, which allows you to easily create controls and handle constraints
 for additional props you might want to use in your animation shots.
 
-Give a look a the video or read the guide below if you want to see its functionalities.
+Give a look at the video or read the guide below if you want to see its functionalities.
 
 ***
 
 - [Quick Guide](https://robertom89.github.io/CTRLTools_Docs/#quick-guide)
 - [Download and Install](https://robertom89.github.io/CTRLTools_Docs/#download-and-install)
-- [Interface](https://robertom89.github.io/BigRig/#interface)
 - [How to Create a Control](https://robertom89.github.io/CTRLTools_Docs/#how-to-create-a-control)
 - [How to Change the Color of a Control](https://robertom89.github.io/CTRLTools_Docs/#how-to-change-the-color-of-a-control)
-- [How to Change the Width of a Control](https://robertom89.github.io/CTRLTools_Docs/#how-to-change-the-shape-of-a-control)
+- [How to Change the Width of a Control](https://robertom89.github.io/CTRLTools_Docs/#how-to-change-the-width-of-a-control)
 
 ***
 
