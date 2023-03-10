@@ -30,8 +30,7 @@ Give a look at the video or read the guide below if you want to see its function
 ***
 ## Download and Install
 
-After downloading the zipped folder, uncompress it wherever you want and move the inner content, i.e. *CTRLTools* folder, to Maya scripts folder. Depending on how you unzipped the folder, you may have two nested CTRLTools folders; 
-make sure to copy the inner one, which is the one containing the Python files.
+After downloading the zipped folder, uncompress it wherever you want and move the inner content, i.e. *CTRLTools* folder (the one without the Version number in the name), to Maya scripts folder.
 
 You cand find Maya scripts folder here:
 
