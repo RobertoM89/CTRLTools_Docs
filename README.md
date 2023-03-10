@@ -6,7 +6,7 @@ CTRL Tools - A Maya tool for animators
 
 **Tested on: Maya 2023 - Python 3**
 
-**CTRL Tools** is an Autodesk Maya tool for 3D animators developed by *[Roberto Menicatti](https://linktr.ee/robertomenicatti)*, which allows you to easily create controls and handle constraints
+**CTRL Tools** is a Maya tool for 3D animators developed by *[Roberto Menicatti](https://linktr.ee/robertomenicatti)*, which allows you to easily create controls and handle constraints
 for additional props you might want to use in your animation shots.
 
 Give a look at the video or read the guide below if you want to see its functionalities.
