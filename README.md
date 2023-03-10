@@ -15,7 +15,6 @@ Give a look at the video or read the guide below if you want to see its function
 
 ***
 
-- [Quick Guide](https://robertom89.github.io/CTRLTools_Docs/#quick-guide)
 - [Download and Install](https://robertom89.github.io/CTRLTools_Docs/#download-and-install)
 - [Create Control](https://robertom89.github.io/CTRLTools_Docs/#create-control)
 - [Create Locator](https://robertom89.github.io/CTRLTools_Docs/#create-locator)
