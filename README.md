@@ -30,8 +30,8 @@ Give a look at the video or read the guide below if you want to see its function
 
 ## Quick Guide
 
-On the menu bar, click on *Help → Help* to read a description of each command directly from **CTRLTools** interface, or *Help  → Online Guide* to be redirected to this page.
-Read the following Sections to have a better understanding of each and every step and function.
+{% include youtube.html id="KHVNDN2D9mc" %}
+
 
 ***
 ## Download and Install
