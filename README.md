@@ -32,7 +32,7 @@ Give a look at the video or read the guide below if you want to see its function
 
 After downloading the zipped folder, uncompress it wherever you want and move the inner content, i.e. *CTRLTools* folder (the one without the Version number in the name), to Maya scripts folder.
 
-You cand find Maya scripts folder here:
+You can find Maya scripts folder here:
 
 - on **Windows**   
 ~~~
