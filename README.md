@@ -11,6 +11,8 @@ for additional props you might want to use in your animation shots.
 
 Give a look at the video or read the guide below if you want to see its functionalities.
 
+{% include youtube.html id="KHVNDN2D9mc" %}
+
 ***
 
 - [Quick Guide](https://robertom89.github.io/CTRLTools_Docs/#quick-guide)
@@ -24,13 +26,6 @@ Give a look at the video or read the guide below if you want to see its function
 - [Store Pose and Apply Pose](https://robertom89.github.io/CTRLTools_Docs/#store-pose-and-apply-pose)
 - [Passive Constraint](https://robertom89.github.io/CTRLTools_Docs/#passive-constraint)
 - [Active Constraint](https://robertom89.github.io/CTRLTools_Docs/#active-constraint)
-
-
-***
-
-## Quick Guide
-
-{% include youtube.html id="KHVNDN2D9mc" %}
 
 
 ***
