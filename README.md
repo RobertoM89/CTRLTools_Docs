@@ -75,14 +75,13 @@ Click on the color field to choose a color from the color wheel pop-up window an
 to change the color of the selected controls.
 
 ## Replace Control Shape
-With a control selected, click on any of the UI icons to replace the original shape of the selected control
-with the one you choose.
+With one or more controls selected, click on any of the UI icons to replace the original shape of the selected controls with the one you choose.
 
 ## Change Shape Scale
-With a control selected, drag the slider towards the right/left to increase/decrease its relative scale.
+With one or more controls selected, drag the slider towards the right/left to increase/decrease its relative scale.
 
 ## Change Line Width
-With a control selected, drag the slider to change the line width of the control shape.
+With one or more controls selected, drag the slider to change the line width of the control shape.
 Set the value at -1 to reset the line width to its default value (set in Maya's *Settings and Preferences*
 under the *Display* tab).
 Values between 0 and 1 count as 1.
