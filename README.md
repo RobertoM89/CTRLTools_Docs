@@ -1,3 +1,7 @@
+<head>
+     <link rel="shortcut icon" type="image/png" href="CTRLTools_icon.png">
+</head>
+
 CTRL Tools - A Maya tool for animators
 ======================================
 ***
@@ -108,7 +112,7 @@ Two new controls are created around the object.
 
   For example: imagine that a character is holding a ball in his left hand for a while, then takes the ball with the right hand and then throws it away. 
   
-  You can select the left hand control, the right hand control and the ball's control and create a Passive Constraint for the ball. From the new OFFSET control you will key the *Constraint* attribute so that the left hand is parent at first, then you will switch the attribute to have the right hand as parent, and finally, when the character throws the ball, you will swith the attribute to have the FREE control as parent, so that the ball can follow its trajectory in the air without being influenced by any of the hands constraints.  
+  You can select the left hand control, the right hand control and the ball's control and create a Passive Constraint for the ball. From the new OFFSET control you will key the *Constraint* attribute so that the left hand is parent at first, then you will switch the attribute to have the right hand as parent, and finally, when the character throws the ball, you will switch the attribute to have the FREE control as parent, so that the ball can follow its trajectory in the air without being influenced by any of the hands constraints.  
 
 This constraint works with referenced elements too.
 
