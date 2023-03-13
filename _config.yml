@@ -3,4 +3,5 @@ github:
   is_project_page: false
 plugins:
   - jekyll-seo-tag
-  
+title: [CTRL Tools - Documentation]
+description: [Documentation for Maya plugin CTRL Tools]  
