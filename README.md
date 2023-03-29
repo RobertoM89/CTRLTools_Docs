@@ -1,10 +1,10 @@
 CTRL Tools - A Maya tool for animators
 ======================================
 ***
-**Version 0.9**  
+**Version 1.0**  
 **March 2023**
 
-**Tested on: Maya 2023 - Python 3**
+**Tested on Maya: 2019, 2020, 2022, 2023**
 
 **CTRL Tools** is a Maya tool for 3D animators developed by *[Roberto Menicatti](https://linktr.ee/robertomenicatti)*, which allows you to easily create controls and handle constraints
 for additional props you might want to use in your animation shots.
@@ -93,10 +93,10 @@ These two commands can be very useful when you have to switch the object's paren
 dealing with parent constraints, to keep the object in the position it had before the switch.
 
 ***
-## Passive Constraint
-Use *Passive Constraint* if you want to constrain the object to some other moving elements (a character hand or anything else, for example), i.e. if you want to make the object follow the motion of other animated elements in the scene.
+## Child Constraint
+Use *Child Constraint* if you want to constrain the object to some other moving elements (a character hand or anything else, for example), i.e. if you want to make the object follow the motion of other animated elements in the scene.
 
-Select all the controls that will guide the motion first (parents) and the object's control at last (child), and click on *Passive Constraint*.
+Select the object's control first (child) and all the controls that will guide the motion at last (parents), and click on *Child Constraint*.
 
 Two new controls are created around the object. 
 - The circular one (OFFSET) has a *Constraint* attribute in the Channel Box that allows you to select which one among the different parents is currently active. 
@@ -111,10 +111,10 @@ Two new controls are created around the object.
 
 This constraint works with referenced elements too.
 
-## Active Constraint
-Use *Active Constraint* if you want to constraint some other elements of the scene to your object, i.e. if you want to make the object drive the motion of something else.
+## Parent Constraint
+Use *Parent Constraint* if you want to constraint some other elements of the scene to your object, i.e. if you want to make the object drive the motion of something else.
 
-Select the object's control first (parent) and then all the controls that should follow the object (children), and click on *Active Constraint*.
+Select the object's control first (parent) and then all the controls that should follow the object (children), and click on *Parent Constraint*.
 
 - A new circular control is created around the object.
   
