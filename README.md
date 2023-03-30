@@ -11,7 +11,7 @@ for additional props you might want to use in your animation shots.
 
 Give a look at the video or read the guide below if you want to see its functionalities.
 
-{% include youtube.html id="KHVNDN2D9mc" %}
+{% include youtube.html id="_xHW1xVIxtM" %}
 
 ***
 
