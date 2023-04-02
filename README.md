@@ -23,8 +23,8 @@ Give a look at the video or read the guide below if you want to see its function
 - [Change Shape Scale](https://robertom89.github.io/CTRLTools_Docs/#change-shape-scale)
 - [Change Line Width](https://robertom89.github.io/CTRLTools_Docs/#change-line-width)
 - [Store Pose and Apply Pose](https://robertom89.github.io/CTRLTools_Docs/#store-pose-and-apply-pose)
-- [Passive Constraint](https://robertom89.github.io/CTRLTools_Docs/#passive-constraint)
-- [Active Constraint](https://robertom89.github.io/CTRLTools_Docs/#active-constraint)
+- [Child Constraint](https://robertom89.github.io/CTRLTools_Docs/#child-constraint)
+- [Parent Constraint](https://robertom89.github.io/CTRLTools_Docs/#parent-constraint)
 
 
 ***
